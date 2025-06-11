@@ -20,7 +20,7 @@ function largestNum(arr) {
 const input = [[7, 2, 9, 4],[45, 12, 99, 23],[0, -5, -2, -10],[200, 150, 300, 100]];
 
 
-console.log(largestOfEach(input)); 
+console.log(largestNum(input)); 
 
 
 
